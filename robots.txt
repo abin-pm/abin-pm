@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Optional: replace with your deployed sitemap URL if available
+Sitemap: https://abin-pm.github.io/sitemap.xml
